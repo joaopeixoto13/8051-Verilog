@@ -10,7 +10,7 @@
 
 ### Brief Overview
 
-This version of 8051 ISA (Instruction Set Architecture) is composed by 27 instructions:
+This version of 8051 ISA (Instruction Set Architecture) is composed by 28 instructions:
   - 9 Arithmetic instructions
   - 9 Logic instructions
   - 5 Data transfer instructions
