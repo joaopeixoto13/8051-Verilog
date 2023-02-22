@@ -25,7 +25,7 @@ Also, this version has:
   - SPI Slave interface
   - UART
   - 4 Interrupts 
-    - Triggered by Timer when overflow
+      - Triggered by Timer when overflow
       - Triggered by an external event
       - Triggered by a reception of UART
       - Triggered by a transmission of UART
